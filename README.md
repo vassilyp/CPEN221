@@ -14,3 +14,5 @@ Summary: Used PTrees to compress an image by up to 89\% while preserving critica
 
 Relevant (and cool) images:
 
+PA1:
+![image](https://github.com/user-attachments/assets/51df3ad2-59bf-4abc-a43b-abd577d59af0)
